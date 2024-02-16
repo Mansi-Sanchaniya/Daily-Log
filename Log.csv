@@ -1,13 +1,27 @@
-DATE,TASKS COMPLETED
-29/01/24,Thoroughly went through all the referred articles
-,Went through some more articles on covid-19 in NYC
-,Tried accessing the referenced datasets
-30/01/24,Found and downloaded some datasets from NYC health official website
-,Mailed the article owner for the NYC dataset access
-31/01/24,Found few datasets from the referred articles
-,Went through different NYC official websites anf found some related datasets
-01/02/24, Converted few of the datasets referred in the articles into a readable and accessible format
-,Filed a FOIL Request to NYC gov
+DATE, TASKS COMPLETED
+29/01/24, Thoroughly went through all the referred articles
+,I went through some more articles on COVID-19 in NYC
+, Tried accessing the referenced datasets
+30/01/24, Found and downloaded some datasets from NYC Health official website
+, Mailed the article owner for the NYC dataset access
+31/01/24, Found few datasets from the referred articles
+, Went through different NYC official websites and found some related datasets
+01/02/24, Converted a few of the datasets referred to in the articles into a readable and accessible format
+, Filed a FOIL Request to NYC gov
 02/02/24, Downloaded France and Germany datasets
-,Mailed back to the panda site team
-,downloaded hospitalization data
+, Mailed back to the panda site team
+, downloaded hospitalization data
+03/02/24, Cleaned and organized the datasets
+, Downloaded more datasets for France and Germany and found their population distribution
+05/02/24, Started analysing and plotting the Germany dataset
+06/02/24, Worked on the plots 
+07/02/24, Worked on different Germany datasets
+08/02/24, Worked on different plots
+09/02/24, Started working on France datasets
+10/02/24, Found the population data
+, Analysed and merged the population data with the original France data 
+12/02/24, Worked on the France data plots
+13/02/24, Found UK mortality datasets
+14/02/24, Started plotting the graphs
+15/02/24, Found agewise datasets for UK mortality
+, Worked on all the plots
